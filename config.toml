@@ -1,4 +1,4 @@
-BaseUrl= "https://landdegradation.com"
+BaseUrl= "https://syui.cf/hugo-theme-air/"
 LanguageCode= "en-US"
 Title= "Land Degradation"
 paginate = 5
@@ -23,7 +23,7 @@ canonifyurls = true
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
-  githubName = "EstherPeev"
+  githubName = ""
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
