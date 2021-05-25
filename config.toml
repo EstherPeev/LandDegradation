@@ -13,12 +13,12 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "Institutional governance analysis"
+  description = "Institutional Governance Analysis"
   cover = "images/user.jpg"
   author = "Esther Peev"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
-  bio= "The most interesting girl in the world"
+  authorwebsite = ""
+  bio= ""
   logo = ""
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
