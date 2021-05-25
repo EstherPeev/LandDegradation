@@ -3,16 +3,18 @@ author = "syui"
 comments = false
 date = "2021-05-12"
 draft = false
-image = ""
+image = "actorsmap2.png"
 menu = ""
 share = false
 slug = "test"
 title= "Who is acting?"
 +++
 
-Now, let's take a look at the map of the actors intervening in the governance of the issue. 
+Now, let's take a look at the map of the actors intervening in the land degradation institutional governance.
 
-> Below you will find some of the most common and helpful pages from our documentation.
+
+![](actorsmap2.png)
+
 
 
 
