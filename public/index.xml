@@ -1,51 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Land Degradation</title>
-    <link>https://landdegradationblog.com/</link>
-    <description>Recent content on Land Degradation</description>
+    <title>Hugo Theme Air</title>
+    <link>https://syui.cf/hugo-theme-air/</link>
+    <description>Recent content on Hugo Theme Air</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://landdegradationblog.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome!</title>
-      <link>https://landdegradationblog.com/post/2021/05/25/test/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://landdegradationblog.com/post/2021/05/25/test/</guid>
-      <description>Land degradation is a very complex environmental issue that demands in-deep analysis to understand what are the roles of the actors in the institutional governance and what is the biggest challenge they face. This blog aims to dive into this particular issue to highlight the institutions&#39; role and what they should overcome to solve this issue. The analysis will be in four different parts. The two first parts will be more descriptive and focused on the definitions of the concepts and the actors network.</description>
-    </item>
-    
-    <item>
-      <title>What is the issue?</title>
-      <link>https://landdegradationblog.com/post/2021/05/20/what-is-the-issue/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://landdegradationblog.com/post/2021/05/20/what-is-the-issue/</guid>
-      <description>First, let&amp;rsquo;s first dive into the different definitions of land degradation. They can differ depending on the sources which gives emphasis for certain elements more than other.
-According to the IPCC 2019 report, land degradation could be defined as such:
- Land degradation is a negative trend in land condition, caused by direct or indirect human-induced processes including anthropogenic climate change, expressed as long-term reduction or loss of at least one of the following: biological productivity, ecological integrity or value to humans.</description>
-    </item>
-    
-    <item>
-      <title>Who is acting and where?</title>
-      <link>https://landdegradationblog.com/post/2021/05/12/test/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://landdegradationblog.com/post/2021/05/12/test/</guid>
-      <description>Now, let&amp;rsquo;s take a look at the map of the actors intervening in the land degradation institutional governance. [need to be re-worked]
-The infographic below is giving an overview of the main actors involved in land degradation. Special focus is given to agriculture factors =&amp;gt; give emphasize on the main cause of land degradation. How important this driver is. The only convention treating specifically about land degradation is UNCCD.</description>
-    </item>
-    
-    <item>
-      <title>How well do they perfom?</title>
-      <link>https://landdegradationblog.com/post/2021/05/11/test/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://landdegradationblog.com/post/2021/05/11/test/</guid>
-      <description> UNCCD:  Why focus on UNCCD participatory gaps    </description>
-    </item>
-    
+    <copyright>All rights reserved - 2016</copyright><atom:link href="https://syui.cf/hugo-theme-air/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

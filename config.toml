@@ -1,4 +1,4 @@
-BaseUrl= "https://landdegradationblog.netlify.com"
+BaseUrl= "https://landdegradation.com"
 LanguageCode= "en-US"
 Title= "Land Degradation"
 paginate = 5
@@ -15,10 +15,10 @@ canonifyurls = true
 [params]
   description = "Institutional Governance Analysis"
   cover = "images/user.jpg"
-  author = "Esther Peev"
+  author = "syui"
   authorlocation = ""
-  authorwebsite = ""
-  bio= ""
+  authorwebsite = "https://syui.cf/hugo-theme-air"
+  bio= "my bio"
   logo = ""
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
