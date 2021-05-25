@@ -15,10 +15,10 @@ canonifyurls = true
 [params]
   description = "Institutional Governance Analysis"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "Esther Peev"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
-  bio= "my bio"
+  authorwebsite = ""
+  bio= ""
   logo = ""
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
