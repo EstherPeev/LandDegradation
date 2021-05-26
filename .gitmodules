@@ -1,0 +1,3 @@
+[submodule "Submod"]
+	url = https://github.com/EstherPeev/LandDegradation.git
+	branch = Development
