@@ -1,3 +1,5 @@
 [submodule "Submod"]
 	url = https://github.com/EstherPeev/LandDegradation.git
 	branch = master
+[submodule "Air"]
+	url = https://github.com/EstherPeev/LandDegradation.git
