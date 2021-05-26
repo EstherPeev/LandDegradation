@@ -3,3 +3,6 @@
 	branch = master
 [submodule "Air"]
 	url = https://github.com/EstherPeev/LandDegradation.git
+[submodule "themes/themes/hugo-theme-air"]
+	path = themes/themes/hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air.git
