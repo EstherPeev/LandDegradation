@@ -1,12 +1,16 @@
 +++
-author = "Esther"
-comments = false
-date = "2021-05-20"
-image = "actorsmap.png"
-menu = ""
-share = false
-title= "What is the issue?"
+date = "2021-05-15"
+draft = false
+title = "What is the Issue?"
+slug = "post-title"
+tags = []
+image = ""
+comments = true	# set false to hide Disqus
+share = true	# set false to hide share buttons
+menu= ""		# set "main" to add this content to the main menu
+author = ""
 +++
+
 
 First, let's first dive into the different definitions of land degradation. They can differ depending on the sources which gives emphasis for certain elements more than other.
 
