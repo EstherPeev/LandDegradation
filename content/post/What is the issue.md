@@ -4,13 +4,18 @@ draft = false
 title = "What is the Issue?"
 slug = "post-title"
 tags = []
-image = ""
+image = "images/soildegradation.png"
 comments = true	# set false to hide Disqus
 share = true	# set false to hide share buttons
 menu= ""		# set "main" to add this content to the main menu
 author = ""
 +++
 
+
+According to [recent studies](https://www.nationalgeographic.com/science/article/ipbes-land-degradation-environmental-damage-report-spd), approximately 75% of the world's land area is significantly degraded. With the population growth and the consumption level increasing in developing countries, demand for food and therefore arable land will keep increase. The food system is indeed responsible for a large part of land degradation as the main causes are the intensification of agriculture production, overgrazing, deforestation, fuelwood overconsumption, urbanization ([UNISFÉRA 2005](http://hubrural.org/IMG/pdf/unisfera_from_boom_to_dust.pdf)). As globalization and more specifically trade liberalization in agricultural commodities continue to nourish the main drivers of land degradation, institutions have been created to respond to this specific issue and intent to coordinate actions between states to tackle the challenge. 
+
+![](images/soildegradation.png)
+`Source: human induced land degradation from: https://www.asente.ch/environmental-issues/land-degradation/)`
 
 First, let's first dive into the different definitions of land degradation. They can differ depending on the sources which gives emphasis for certain elements more than other.
 
