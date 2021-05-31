@@ -5,7 +5,7 @@ paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
 canonifyurls = true
-theme = "air"
+theme = "hugo-theme-air"
 
 [author]
   name = "Esther Peev"
