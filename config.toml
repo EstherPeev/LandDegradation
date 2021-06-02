@@ -37,7 +37,7 @@ pygmentsCodefences       = true
     text = "What is the issue?"
 
 [[params.mainMenu]]
-    link = "posts/who"
+    link = "who"
     text = "Who is acting and where?"
 
 [[params.mainMenu]]

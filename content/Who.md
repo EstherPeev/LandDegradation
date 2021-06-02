@@ -6,7 +6,7 @@ showDate: false
 
 Now, let's take a look at the map of the actors intervening in the land degradation institutional governance.
 
-![](images/actorsmap.png)
+![](/actorsmap.png)
 
 There are many different types of actors intervening in the governance of land degradation. 
 
@@ -21,7 +21,7 @@ The infographic below is giving an overview of the main actors involved in land 
 - The relationship between the problem and the institutions => UNCCD roles => neglect the parts 
 - **Also reworked slightly the infograph to highlight UNCCD role (and what the convention is not covering specifically => desertification is only one type of land degradation!)**
 
-![](infographic.png)
+![](/infographic.png)
 
 
 
