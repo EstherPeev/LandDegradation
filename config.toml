@@ -1,32 +1,49 @@
-BaseUrl= "http://landdegradationblog.com"
-LanguageCode= "en-US"
-Title= "Land Degradation"
-paginate = 5
-DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
-canonifyurls = true
-
-
-[author]
-  name = "Esther Peev"
-
-[permalinks]
-    post = "/post/:year/:month/:day/:slug"
+baseurl                  = "https://landdegradationblog.com"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Esther Peev"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-  description = "Institutional Governance Analysis"
-  cover = "images/user.jpg"
-  author = "Esther Peev"
-  authorlocation = ""
-  authorwebsite = ""
-  bio= "my bio"
-  logo = ""
-  googleAnalyticsUserID = ""
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = ""
-  githubName = "EstherPeev"
-  twitterName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
-  mainSections = ["post"]
-theme = "air"
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "logo_transparent.png"
+    homepage             = "Home"                           # What to call the home page link
+    footerText           = "Made with the help of Hugo and Sam"
+
+# Metadata for Open Graph and Twitter
+    description          = ""                               # Max 160 characters show in search results
+    images               = ["logo_transparent.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = ""
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/earth.mp4"
+    type    = "video/mp4"
+    poster  = "/screen.jpg"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "about"
+    text = "About Land Degradation"
+
+[[params.mainMenu]]
+    link = "issue"
+    text = "What is the issue?"
+
+[[params.mainMenu]]
+    link = "posts/who"
+    text = "Who is acting and where?"
+
+[[params.mainMenu]]
+    link = "conclusion"
+    text = "How well do they perform?"
+
+
+[imaging]
+    quality = 75
