@@ -30,7 +30,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "About Land Degradation"
+    text = "Welcome!"
 
 [[params.mainMenu]]
     link = "issue"
