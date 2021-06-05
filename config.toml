@@ -29,20 +29,20 @@ pygmentsCodefences       = true
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
-    link = "about"
+    link = "welcome"
     text = "Welcome!"
 
 [[params.mainMenu]]
-    link = "issue"
+    link = "whatistheissue"
     text = "What is the issue?"
 
 [[params.mainMenu]]
-    link = "who"
-    text = "Who is acting and where?"
+    link = "whoarethemainactors"
+    text = "Who are the main actors?"
 
 [[params.mainMenu]]
-    link = "conclusion"
-    text = "How well do they perform?"
+    link = "unccdsroleandperformance"
+    text = "UNCCD's role and performance"
 
 
 [imaging]
