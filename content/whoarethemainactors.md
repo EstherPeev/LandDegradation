@@ -19,6 +19,9 @@ The infographic below is giving an overview of the main actors involved in land 
 
 ![](/info.png)
 
+###### Source: [pie chart numbers](https://www.researchgate.net/requests/r88282456) and the [food system graph](https://www.iisd.org/articles/visual-representations-food-systems)
+
+
 
 
 
