@@ -8,7 +8,7 @@ Now that the issue has been defined and that the actors' network and their role 
 
 # 1. Concept definition
 
-One common definition of effectiveness is:
+Some specific concepts in this section will be used, which would require some clarification before moving on to the analysis part. The effectiveness has been often used in order to asses an institution. One common definition of effectiveness is:
 
 > the extent to which institutions contribute to solving or mitigating the problems that motivate those people who create it ([Young, 2011](https://www.pnas.org/content/108/50/19853)).
 
@@ -57,7 +57,7 @@ The Convention features are therefore perfect to attract many states, but is mis
 
 > “A state whereby the amount and quality of land resources, necessary to support ecosystem functions and services and enhance food security, remains stable or increases within specified temporal and spatial scales and ecosystems”  ([Briassoulis, 2019](https://www.mdpi.com/2073-445X/8/2/27/htm))
 
-has been particularly emphasized through the target 15.3 of the Sustainable Development Goals (SDG), which is the part of 17 SDGs adopted by the United Nations which all together aim to end poverty and protect the planet by 2030 [UNDP, 2021](https://www.undp.org/sustainable-development-goals)). The concept has gained considerable attention during the last years and could represent a potential solution to have better clear targets to achieve for states. That means, however, that considerable efforts should be taken to modify and adopt this new targets through UNCCD institutional framework. 
+This concept has been particularly emphasized through the target 15.3 of the Sustainable Development Goals (SDG), which is the part of 17 SDGs adopted by the United Nations which all together aim to end poverty and protect the planet by 2030 ([UNDP, 2021](https://www.undp.org/sustainable-development-goals)). The concept has gained considerable attention during the last years and could represent a potential solution to have better clear targets to achieve for states. That means, however, that considerable efforts should be taken to modify and adopt this new targets through UNCCD institutional framework. 
 
 
 # 4. Overall performance of UNCCD?

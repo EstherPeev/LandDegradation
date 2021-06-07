@@ -5,14 +5,15 @@ showDate: false
 ---
 
 
-According to [recent studies](https://www.nationalgeographic.com/science/article/ipbes-land-degradation-environmental-damage-report-spd), approximately 75% of the world's land area is already degraded. With the population growth and the consumption level increasing in developing countries, demand for food and therefore arable land will keep increase. The food system is indeed responsible for a large part of land degradation as the main causes are the intensification of agriculture production, overgrazing, deforestation, but fuelwood overconsumption and urbanization are also important factors ([UNISFÉRA 2005](http://hubrural.org/IMG/pdf/unisfera_from_boom_to_dust.pdf)). As globalization and more specifically trade liberalization in agricultural commodities continue to nourish the main drivers of land degradation, institutions have been created to respond to this specific issue and intent to coordinate actions between states to tackle the challenge. 
+According to [recent studies](https://www.nationalgeographic.com/science/article/ipbes-land-degradation-environmental-damage-report-spd), approximately 75% of the world's land area is already degraded, with some regions more touched than others as showed in the map below. With the population growth and the consumption level increasing in developing countries, demand for food and therefore arable land will keep growing. The food system is indeed responsible for a large part of land degradation as the main causes are the intensification of agriculture production, overgrazing and deforestation. Fuelwood overconsumption and urbanization are also important factors of land degradation ([UNISFÉRA 2005](http://hubrural.org/IMG/pdf/unisfera_from_boom_to_dust.pdf)). As globalization and more specifically trade liberalization in agricultural commodities continue to nourish the main drivers of land degradation, institutions have been created to respond to this specific issue as an attempt to coordinate actions between states to tackle the challenge. 
 ![](/soildegradation.png)
 
 ###### Source: human induced land degradation from: https://www.asente.ch/environmental-issues/land-degradation/ 
 
+---
  ### Concepts definition
  
-But first, let's first dive into the different definitions of land degradation to better understand what the institutions are fighting against. They can differ depending on the sources, with some of them giving more emphasis for certain elements than other. According to the [IPCC 2019 report](https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/07_Chapter-4.pdf), land degradation could be defined as such:
+But first, let's first dive into the different definitions of land degradation to better understand what the institutions are fighting against. They can differ depending on the sources, with some of them giving more emphasis for certain elements than others. According to the [IPCC 2019 report](https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/07_Chapter-4.pdf), land degradation could be defined as such:
 
 > Land degradation is a negative trend in land condition, caused by direct or indirect human-induced processes including anthropogenic climate change, expressed as long-term reduction or loss of at least one of the following: biological productivity, ecological integrity or value to humans.
 
@@ -28,7 +29,12 @@ The distinction between this two concepts is crucial as institutions analyzed la
 This type of land degradation is found at the intersect of socioeconomic drivers and environmental drivers which makes it more complex for states to tackle it. As presented in the map below, most of the places at risk of desertification are found where vulnerable population live such as in the Sahel, Northern Africa, in the Middle East, Central Asia and some areas in Southern Asia and Latin America ([UNISFÉRA, 2019](http://hubrural.org/IMG/pdf/unisfera_from_boom_to_dust.pdf)). This create a vicious circle where population do not have capacities and knowledge to adopt sustainable agricultural practices and therefore lands are degraded more rapidly. Combat desertification require a large spectrum of actors, impacting at different levels of the society.
 
 ![](/Desertification.png)
-###### Source: desertification vulnerability from: https://en.wikipedia.org/wiki/Desertification
+###### Source: desertification vulnerability from: https://en.wikipedia.org/wiki/Desertification 
+___
+
+Land degradation is already affecting about 3.2 billion people which makes it one of the most important environment issue, and it will just keep getting worse as the population increase ([The Guardian, 2018](https://www.theguardian.com/environment/2018/mar/26/land-degradation-is-undermining-human-wellbeing-un-report-warns)). It is both related to climate change and biodiversity loss, which makes the issue floating around many scientific uncertainties on the possible long-term adverse impacts. What is certain is that the alarming rate of land degradation can not decrease without states taking coordinated and efficient actions. Desertification is one of the most important type of land degradation, and as we will see later, institution have been created to respond to this problem. Before assessing how does the institution perform, let's take a closer look at the actors' network acting on land degradation to better understand UNCCD place and affected role in there. For this, click on the next section of the blog!
+
+---
 
 # Extra information
 
