@@ -25,7 +25,7 @@ The infographic below is giving an overview of the main actors involved in land 
 
 ---
 
-Therefore we can see that UNCCD is the only normative institution acting particularly on all the step of production of food, at the environmental drivers of desertification and also at the socioeconomic level. UNCCD is the institutional framework established by states, which is composed of a set of rules and norms that they all have to follow in order to stop desertification. As we will see, the specific design of the institution as well as the participatory gaps are provoking some major challenges in the effectiveness and performance of the institution. Learn more on this on the next section!
+Therefore we can see that UNCCD is the only normative institution acting particularly on all the step of production of food, at the environmental drivers of desertification and also at the socioeconomic level of the issue. UNCCD is the institutional framework established by states, which is composed of a set of rules and norms that they all have to follow in order to stop desertification. As we will see, the specific design of the institution as well as the participatory gaps are provoking some major challenges in the effectiveness and performance of the institution. Learn more on this on the next section!
 
 
 
