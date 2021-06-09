@@ -45,3 +45,9 @@ ___
 
 Land degradation is already affecting about 3.2 billion people which makes it one of the most important environment issue, and it will just keep getting worse as the population increase ([The Guardian, 2018](https://www.theguardian.com/environment/2018/mar/26/land-degradation-is-undermining-human-wellbeing-un-report-warns)). It is both related to climate change and biodiversity loss, which makes the issue floating around many scientific uncertainties on the possible long-term adverse impacts. What is certain is that the alarming rate of land degradation can not decrease without states taking coordinated and efficient actions. Desertification is one of the most important type of land degradation, and as we will see later, institution have been created to respond to this problem. Before assessing how does the institution perform, let's take a closer look at the actors' network acting on land degradation to better understand UNCCD position and role in there. For this, click on the next section of the blog!
 
+# Extra information from The National Geographic
+
+Would You Stay if Your Home Became a Desert?
+
+{{< youtube id="uUCD19mEliU" >}}
+
