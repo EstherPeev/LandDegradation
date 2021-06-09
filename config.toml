@@ -37,12 +37,12 @@ pygmentsCodefences       = true
     text = "What is the issue?"
 
 [[params.mainMenu]]
-    link = "whoarethemainactors"
-    text = "Who are the main actors?"
+    link = "whyunccdamongothers"
+    text = "Why UNCCD among others?"
 
 [[params.mainMenu]]
-    link = "unccdsroleandperformance"
-    text = "UNCCD's role and performance"
+    link = "unccdmainchallenges"
+    text = "Main challenges UNCCD is facing"
 
 
 [imaging]

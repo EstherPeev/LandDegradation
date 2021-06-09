@@ -1,5 +1,5 @@
 ---
-title: "Main Challenges of UNCCD combating land degradation - Institutional Analysis on its Performance"
+title: "Main Challenges of UNCCD combating land degradation"
 date: 2020-12-15T19:33:25+01:00
 showDate: false
 ---
